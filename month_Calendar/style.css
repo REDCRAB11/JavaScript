@@ -8,15 +8,15 @@
 .container{
     width: 100%;  
     height: 100vh;
-    background-color: salmon;
+    background-color: #FFF2CC;
     display: flex;
     justify-content: center;
     align-items: center;   
 }
 
 .calender{
-    background-color: black;
-    color: lightgray;
+    background-color: #DFA67B;
+    color: #FFF;
     width: 450px;
     height: 520px;
     border-radius: 10px;
@@ -26,7 +26,7 @@
 .month{
     width: 100%;
     height: 120px;
-    background-color: lightseagreen;
+    background-color: #FFD966;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -78,10 +78,10 @@
 }
 
 .days div:hover:not(.empty){
-    border: 2px solid gray;
+    border: 2px solid #FFD966;
     cursor: pointer;
 }
 
 .today{
-    background-color: lightseagreen;
+    background-color: #FFD966;
 }

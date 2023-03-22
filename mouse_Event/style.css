@@ -4,9 +4,9 @@ body {
     justify-content: center;
     height: 100vh;
     align-items: center;
-    background-color: darkblue;
-    color: white;
-    font-family: cursive;
+    background-color: #362FD9;
+    color: #FFF;
+    font-family: sans-serif;
   }
   
   .container {
@@ -15,7 +15,7 @@ body {
   }
   
   .mouse-event {
-    border: solid 1px lightgray;
+    border: solid 1px #FFF;
     margin: 40px;
     min-width: 180px;
     min-height: 100px;

@@ -4,9 +4,9 @@ body{
     justify-content: center;
     height: 100hv;
     align-items: center;
-    background-color: black;
-    color: white;
-    font-family: cursive;
+    background-color: #DDF7E3;
+    color: 5D9C59;
+    font-family: sans-serif;
 }
 
 .container{
@@ -31,7 +31,7 @@ body{
 .loading-bar-front{
     position: absolute;
     height: 8px;
-    background-color: orangered;
+    background-color: #DF2E38;
     width: 0%;
     border-radius: 5px;
     border: none;

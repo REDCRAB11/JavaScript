@@ -2,7 +2,7 @@
 // const minuteE1 = document.querySelector(".minute");
 // const secondE1 = document.querySelector(".second");
     
-// function updateClock(){
+// function updateClock(){  
 //     const currentDate = new Date();
 //     //setTimeout(updateClock, 1000);
 //     const hour = currentDate.getHours();

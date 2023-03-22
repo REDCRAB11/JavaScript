@@ -10,3 +10,6 @@
 
 # Mouse-Event
 - 마우스의 움직임에 따른 X,Y축 계산 
+
+#Testimonial-Slider
+- 시간에 따른 슬라이더 

@@ -47,3 +47,9 @@
 
 ![스크린샷 2023-03-22 오후 7 50 22](https://user-images.githubusercontent.com/109942640/226881346-86565ca8-8abd-429b-93e8-c59ddc81ebd2.png)
 
+
+# Mini-Calendar 
+- 현재 날짜,요일에 따라 변화하는 미니 캘린더 
+
+![스크린샷 2023-03-24 오후 4 30 38](https://user-images.githubusercontent.com/109942640/227454170-ad3e7f61-6f45-496b-a25c-bfa0f053b72f.png)
+

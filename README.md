@@ -1,4 +1,4 @@
-#Html, Css, JacvaScript Project  
+# Html, Css, JacvaScript Project  
 - html, css, js를 활용하여 만들어 보는 프로젝트 
 - 폴더 구성: index.html // style.css // index.js
 

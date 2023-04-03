@@ -100,7 +100,7 @@ clearGridButton.addEventListener("click", () => {
     container.innerHTML = "";
 });
 
-eraseBtn.addEventListener("click", () => {
+eraseBtn.addEventListener("click", () => { 
     erase = true;
 });
 

@@ -1,8 +1,6 @@
-# Html, Css, JacvaScript Project  
-- html, css, js를 활용하여 만들어 보는 프로젝트 
-- 폴더 구성: index.html // style.css // index.js
+# JS PROJECT BASIC
 
-# CLOCK 
+## CLOCK 
 - 현재 시간에 따라 시, 분, 초가 움직이는 시계 
 
 
@@ -10,7 +8,7 @@
 
 
 
-# Month-Calender 
+## Month-Calender 
 - 현재 날짜에 따라 바뀌는 캘린더 
 
 
@@ -18,7 +16,7 @@
 
 
 
-# Mouse-Event
+## Mouse-Event
 - 마우스의 움직임에 따른 X,Y축 위치
 
 
@@ -30,7 +28,7 @@
 
 
 
-# Loading-Bar
+## Loading-Bar
 - 초단위당 움직이는 로딩바(프로그레스 바)
 
 
@@ -38,7 +36,7 @@
 
 
 
-# Testimonial-Slider
+## Testimonial-Slider
 - 시간에 따라 바뀌는 슬라이더(10s)
 
 
@@ -48,13 +46,13 @@
 ![스크린샷 2023-03-22 오후 7 50 22](https://user-images.githubusercontent.com/109942640/226881346-86565ca8-8abd-429b-93e8-c59ddc81ebd2.png)
 
 
-# Mini-Calendar 
+## Mini-Calendar 
 - 현재 날짜,요일에 따라 변화하는 미니 캘린더 
 
 ![스크린샷 2023-03-24 오후 4 30 38](https://user-images.githubusercontent.com/109942640/227454170-ad3e7f61-6f45-496b-a25c-bfa0f053b72f.png)
 
 
-# Navbar-Menu
+## Navbar-Menu
 - 사이즈에 변화되는 네비바
 
 ![스크린샷 2023-03-24 오후 8 55 11](https://user-images.githubusercontent.com/109942640/227514994-e121f26e-daeb-4032-9253-2be099a43491.png)
@@ -62,8 +60,14 @@
 ![스크린샷 2023-03-24 오후 8 55 18](https://user-images.githubusercontent.com/109942640/227515006-15a443dc-c2ef-49c9-aab5-5bd52a37af6d.png)
 
 
-# Sidebar-Menu
+## Sidebar-Menu
 - 왼쪽에서 나오는 사이드바
 
 ![스크린샷 2023-03-25 오후 7 04 53](https://user-images.githubusercontent.com/109942640/227710703-6c5d38f2-b255-43b0-b77f-9e2a76840b89.png)
+
+## Pixel-Art
+- 원하는 행과 열을 지정하여 그림을 그리거나 지울 수 있음 
+
+
+![스크린샷 2023-04-06 오후 5 34 05](https://user-images.githubusercontent.com/109942640/230321734-507b8cd9-3d62-46f5-870e-98cb06b84701.png)
 

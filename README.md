@@ -67,3 +67,9 @@
 
 ![스크린샷 2023-03-25 오후 7 04 53](https://user-images.githubusercontent.com/109942640/227710703-6c5d38f2-b255-43b0-b77f-9e2a76840b89.png)
 
+# Pixel-Art
+- 원하는 행과 열을 지정하여 그림을 그리거나 지울 수 있음 
+
+
+![스크린샷 2023-04-06 오후 5 34 05](https://user-images.githubusercontent.com/109942640/230321734-507b8cd9-3d62-46f5-870e-98cb06b84701.png)
+

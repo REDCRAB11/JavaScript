@@ -71,3 +71,11 @@
 
 ![스크린샷 2023-04-06 오후 5 34 05](https://user-images.githubusercontent.com/109942640/230321734-507b8cd9-3d62-46f5-870e-98cb06b84701.png)
 
+
+## Text-Editor
+- 텍스트 에디터, 굵기 위치 돌아가기 링크 글씨체 굵기 폰트색상 하이라이트 등..
+
+
+![스크린샷 2023-04-10 오후 10 10 22](https://user-images.githubusercontent.com/109942640/230907493-55a5453f-618a-448f-977f-96cedf23884a.png)
+
+
